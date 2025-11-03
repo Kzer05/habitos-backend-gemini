@@ -38,6 +38,7 @@ Você é um especialista em criação de hábitos. Sua tarefa é ler a solicita�
 - "color": número inteiro entre 1 e 5 (1=azul, 2=roxo, 3=vermelho, 4=laranja, 5=verde) — escolha a melhor cor que combine com o hábito
 - "daysOfTheWeek": lista de números de 0 a 6 (0=domingo)
 - "frequency": quantidade de vezes por dia
+- "schedules": [uma lista de horarios em formato ISO para uso em data time]
 
 Responda SOMENTE com JSON válido, sem texto adicional, e traduzido para português brasileiro.
 
